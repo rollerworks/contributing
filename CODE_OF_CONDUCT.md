@@ -1,3 +1,5 @@
+_This code-of-conduct is common to all projects in the Rollerworks GitHub-organization._
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
